@@ -1,0 +1,31 @@
+{
+  "githubRepo": "my-digital-garden",
+  "githubToken": "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",
+  "githubUserName": "YukiTheWise",
+  "gardenBaseUrl": "",
+  "prHistory": [],
+  "baseTheme": "dark",
+  "theme": "{\"name\":\"Yin and Yang\",\"author\":\"Chetachi E.\",\"repo\":\"chetachiezikeuzor/Yin-and-Yang-Theme\",\"screenshot\":\"assets/screenshot.png\",\"modes\":[\"dark\",\"light\"],\"legacy\":true,\"cssUrl\":\"https://raw.githubusercontent.com/chetachiezikeuzor/Yin-and-Yang-Theme/HEAD/obsidian.css\"}",
+  "faviconPath": "",
+  "showRibbonIcon": true,
+  "noteSettingsIsInitialized": true,
+  "siteName": "Choose Your Own Music Adventure",
+  "slugifyEnabled": true,
+  "noteIconKey": "dg-note-icon",
+  "defaultNoteIcon": "",
+  "showNoteIconOnTitle": false,
+  "showNoteIconInFileTree": false,
+  "showNoteIconOnInternalLink": false,
+  "defaultNoteSettings": {
+    "dgHomeLink": true,
+    "dgPassFrontmatter": false,
+    "dgShowBacklinks": false,
+    "dgShowLocalGraph": true,
+    "dgShowInlineTitle": false,
+    "dgShowFileTree": true,
+    "dgEnableSearch": true,
+    "dgShowToc": false,
+    "dgLinkPreview": false,
+    "dgShowTags": false
+  }
+}
